@@ -1,4 +1,4 @@
-# Project Title: Mini Game App
+# Mini Game App
 
 ## Description:
 Mini Game App is a Python-based mobile application developed using the Kivy package. This project serves as an introduction to e-learning for young children who are interested in technology, reading, typing, and other educational activities. The app is designed to run on both Android and iOS devices, providing a platform for interactive and engaging mini-games that promote learning and skill development.
@@ -30,6 +30,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 ## Contact:
-You can find me on Instagram at Nichols.Tech for now.
+You can find me on Instagram at Nichols.Tech or on LinkedIn.
 
 This project is still in development until further notice! 🎮📚✨
