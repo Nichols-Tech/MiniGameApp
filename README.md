@@ -13,7 +13,7 @@ Mini Game App is a Python-based mobile application developed using the Kivy pack
 
 ## Installation:
 To run the Mini Game App locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/Nichols-Tech/MiniGameApp`
 2. Install the required dependencies by running: `pip install -r requirements.txt`
 3. Launch the app using the command: `python main.py`
 
@@ -26,7 +26,7 @@ To run the Mini Game App locally, follow these steps:
 
 
 ## License:
-This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code for personal or commercial use.
+This project is licensed under the [MIT License](LICENSE).
 
 
 ## Contact:
